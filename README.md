@@ -4,5 +4,7 @@
 
 
 git add <file_name>
+
 git commit -m "<message>"
+  
 git push origin main
